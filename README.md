@@ -19,7 +19,7 @@ O sistema possui dois tipos se sorteamento, um sorteia uma sêquencia com os nú
 git clone https://github.com/Theuraim/SorteadorDeNumerosMegaSena.git
 ```
 
-##Para Rodar o projeto é necessário: 
+## Para Rodar o projeto é necessário: 
 - ``Instalar o Visual Studio 2022``
 
 
