@@ -1,0 +1,15 @@
+D:\Projetos\Projeto Alura\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.exe
+D:\Projetos\Projeto Alura\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.deps.json
+D:\Projetos\Projeto Alura\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.runtimeconfig.json
+D:\Projetos\Projeto Alura\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.dll
+D:\Projetos\Projeto Alura\PrimeiroProjeto\bin\Debug\net6.0\PrimeiroProjeto.pdb
+D:\Projetos\Projeto Alura\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.csproj.AssemblyReference.cache
+D:\Projetos\Projeto Alura\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Projeto Alura\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.AssemblyInfoInputs.cache
+D:\Projetos\Projeto Alura\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.AssemblyInfo.cs
+D:\Projetos\Projeto Alura\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.csproj.CoreCompileInputs.cache
+D:\Projetos\Projeto Alura\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.dll
+D:\Projetos\Projeto Alura\PrimeiroProjeto\obj\Debug\net6.0\refint\PrimeiroProjeto.dll
+D:\Projetos\Projeto Alura\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.pdb
+D:\Projetos\Projeto Alura\PrimeiroProjeto\obj\Debug\net6.0\PrimeiroProjeto.genruntimeconfig.cache
+D:\Projetos\Projeto Alura\PrimeiroProjeto\obj\Debug\net6.0\ref\PrimeiroProjeto.dll
