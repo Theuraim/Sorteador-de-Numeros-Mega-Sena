@@ -1,0 +1,15 @@
+D:\Projetos\Projeto Alura\MegaSenaSorter\bin\Debug\net6.0\MegaSenaSorter.exe
+D:\Projetos\Projeto Alura\MegaSenaSorter\bin\Debug\net6.0\MegaSenaSorter.deps.json
+D:\Projetos\Projeto Alura\MegaSenaSorter\bin\Debug\net6.0\MegaSenaSorter.runtimeconfig.json
+D:\Projetos\Projeto Alura\MegaSenaSorter\bin\Debug\net6.0\MegaSenaSorter.dll
+D:\Projetos\Projeto Alura\MegaSenaSorter\bin\Debug\net6.0\MegaSenaSorter.pdb
+D:\Projetos\Projeto Alura\MegaSenaSorter\obj\Debug\net6.0\MegaSenaSorter.csproj.AssemblyReference.cache
+D:\Projetos\Projeto Alura\MegaSenaSorter\obj\Debug\net6.0\MegaSenaSorter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projetos\Projeto Alura\MegaSenaSorter\obj\Debug\net6.0\MegaSenaSorter.AssemblyInfoInputs.cache
+D:\Projetos\Projeto Alura\MegaSenaSorter\obj\Debug\net6.0\MegaSenaSorter.AssemblyInfo.cs
+D:\Projetos\Projeto Alura\MegaSenaSorter\obj\Debug\net6.0\MegaSenaSorter.csproj.CoreCompileInputs.cache
+D:\Projetos\Projeto Alura\MegaSenaSorter\obj\Debug\net6.0\MegaSenaSorter.dll
+D:\Projetos\Projeto Alura\MegaSenaSorter\obj\Debug\net6.0\refint\MegaSenaSorter.dll
+D:\Projetos\Projeto Alura\MegaSenaSorter\obj\Debug\net6.0\MegaSenaSorter.pdb
+D:\Projetos\Projeto Alura\MegaSenaSorter\obj\Debug\net6.0\MegaSenaSorter.genruntimeconfig.cache
+D:\Projetos\Projeto Alura\MegaSenaSorter\obj\Debug\net6.0\ref\MegaSenaSorter.dll

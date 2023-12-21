@@ -112,9 +112,15 @@ bool Continue()
 
     if ((confirm == "Y") || (confirm == "y")){
         return true;
+    }else if ((confirm == "N") || (confirm == "n"))
+    {
+        return false;
     }
 
-    return false;
+
+    Console.Write("\r\nAnswer must be Yes or No");
+
+    return Continue();
 }
 
 Main();

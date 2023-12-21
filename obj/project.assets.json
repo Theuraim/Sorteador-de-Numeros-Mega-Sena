@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\Projeto Alura\\PrimeiroProjeto\\MegaSenaSorter.csproj",
+      "projectUniqueName": "D:\\Projetos\\Projeto Alura\\MegaSenaSorter\\MegaSenaSorter.csproj",
       "projectName": "MegaSenaSorter",
-      "projectPath": "D:\\Projetos\\Projeto Alura\\PrimeiroProjeto\\MegaSenaSorter.csproj",
+      "projectPath": "D:\\Projetos\\Projeto Alura\\MegaSenaSorter\\MegaSenaSorter.csproj",
       "packagesPath": "C:\\Users\\carlos.junior\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\Projeto Alura\\PrimeiroProjeto\\obj\\",
+      "outputPath": "D:\\Projetos\\Projeto Alura\\MegaSenaSorter\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
